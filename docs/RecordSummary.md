@@ -20,7 +20,7 @@ Users can add up to 4 widget blocks as a part of the **Record Summary** widget.
 
 **Publisher**: Fortinet  
 
-**Compatibility**: 7.0.2  
+**Compatibility**: 7.0.2 or higher
 
 **Applicable**: View Panel
 
