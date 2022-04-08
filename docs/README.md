@@ -8,12 +8,12 @@ Displays a particular record’s highlights and summary for quick insight. This 
 
 Users can add up to 4 widget blocks as a part of the **Record Summary** widget.
 
-<img src="./media/record-summary.png" alt="Record Summary widget" style="border: 1px solid #A9A9A9; border-radius: 4px; padding: 10px; display: block; margin-left: auto; margin-right: auto; width: 80%">
+<img src="https://raw.githubusercontent.com/fortinet-fortisoar/widget-record-summary/release/2.0.0/docs/media/record-summary.png" alt="Record Summary widget" style="border: 1px solid #A9A9A9; border-radius: 4px; padding: 10px; display: block; margin-left: auto; margin-right: auto; width: 80%">
 </br>
 
 **Record Summary Edit View**:
 
-<img src="./media/record-summary-edit-view.png" alt="Record Summary Edit View" style="border: 1px solid #A9A9A9; border-radius: 4px; padding: 10px; display: block; margin-left: auto; margin-right: auto; width: 80%">
+<img src="https://raw.githubusercontent.com/fortinet-fortisoar/widget-record-summary/release/2.0.0/docs/media/record-summary-edit-view.png" alt="Record Summary Edit View" style="border: 1px solid #A9A9A9; border-radius: 4px; padding: 10px; display: block; margin-left: auto; margin-right: auto; width: 80%">
 </br>
 
 **Certified**: Yes  
